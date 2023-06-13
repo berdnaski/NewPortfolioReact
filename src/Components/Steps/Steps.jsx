@@ -9,7 +9,7 @@ function Steps() {
   <Typical
     loop={Infinity}
     steps={[
-      'Desenvolvedor',
+      'Developer',
       2000, 
       'Front End',
       1500,
