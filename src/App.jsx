@@ -8,8 +8,8 @@ import Skills from './Components/Skills/Skills'
 import Footer from './Components/Footer/Footer'
 
 
-
 function App() {
+
   return (
     <div className='container-fluid p-0'>
 
@@ -29,7 +29,6 @@ function App() {
       <footer id='Contato' className='container col-12 pt-2 footer text-light text-center ' style={{ backgroundColor: '#e2e2e2' }}>
         <Footer />
       </footer>
-
 
     </div>
   );

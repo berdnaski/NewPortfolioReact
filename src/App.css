@@ -270,3 +270,22 @@ body {
     }
 }
 
+.button-curriculo {
+    position: absolute;
+    top: 20px;
+    border-radius: 8px;
+    right: 30px;
+    background-color: #420a5e;
+    color: white;
+    font-size: 30px;
+    padding: 10px 20px; /* Adicione o padding desejado para o botão */
+  }
+  
+  .button-curriculo:hover{
+    cursor: pointer;
+    background-color: orange;
+    color: #420a5e;
+    transition: 0.7s;
+    transform: scale(1.1);
+  }
+  
